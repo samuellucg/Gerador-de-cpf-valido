@@ -1,5 +1,5 @@
 from random import randint
-cpf_Gerado = ""
+cpf_Gerado = "" # Adicionar seu cpf nesta varíavel vazia.
 for i in range(9):
     cpf_Gerado += str(randint(0, 9))
 lista_de_multiplicacao = []
