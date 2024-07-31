@@ -1,4 +1,3 @@
-# Para gerar o cpf, basta rodar o código.
 from random import randint
 cpf_Gerado = "" 
 for i in range(9):
